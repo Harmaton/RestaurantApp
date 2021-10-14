@@ -8,6 +8,7 @@
     padding: 50px 0px 50px 0px;
     border-bottom: 1px ridge;
     min-height:400px;
+  
 }
 
 .footer{
@@ -35,4 +36,16 @@ body{
 
 .navbar-dark {
      background-color: #512DA8;
+}
+.card{
+    width: auto;
+}
+.btn.btn-info.align-self-center.mb-3{
+    align-self: center;
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
 }
